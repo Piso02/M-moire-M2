@@ -1,0 +1,10 @@
+0 défaut n'existe pas en matière de logiciel // obsolète --> mise à jour
+- perspective machine learning anaconda ??
+- architecture of ldap (client-server) || difference between simple text-based protocol HTTP
+LDAP: add, search, delete, modify users (scope/interest: bind and search)
+Microsoft Active Directory // OpenLDAP
+	-Anonymous Bind (public access)
+	-Simple Password Bind (cn)
+	-Simple Authentication and Security Layer (SASL)
+
+Middleware order of execution from django (httpRequest)
