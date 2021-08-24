@@ -8,3 +8,43 @@ Microsoft Active Directory // OpenLDAP
 	-Simple Authentication and Security Layer (SASL)
 
 Middleware order of execution from django (httpRequest)
+
+https://espresso-jobs.com/conseils-carriere/quel-langage-de-programmation-choisir/
+[9] https://www.linternaute.fr/dictionnaire/fr/definition/langage-de-programmation/ , Définition langage de programmation,
+ consulté le 20 Novembre 2018
+https://ibracilinks.com/blog/quand-et-pourquoi-java-est-utilise-pour-le-developpement-dapplications
+https://tutos-gameserver.fr/2020/01/11/avantages-et-inconvenients-de-python-comment-il-domine-le-monde-de-la-programmation-serveur-dimpression/
+https://fr.accentsconagua.com/articles/code/should-you-use-a-php-framework-five-pros-and-cons.html
+
+3. Restrictions de conception
+
+Comme vous le savez, Python est typé dynamiquement. 
+Cela signifie que vous n'avez pas besoin de déclarer le type de variable lors de l'écriture du code. 
+Il utilise typage de canard. Mais attendez, qu'est-ce que c'est? Eh bien, cela signifie simplement que s'il ressemble à un canard, 
+ce doit être un canard. Bien que cela soit facile pour les programmeurs pendant le codage, cela peut augmenter les erreurs d'exécution.
+
+
+4. Couches d'accès aux bases de données sous-développées
+
+Par rapport aux technologies plus largement utilisées comme JDBC (connectivité Java DataBase) 
+et ODBC (connectivité Open DataBase), Les couches d'accès aux bases de données de Python sont un peu sous-développées.
+Par conséquent, il est moins souvent appliqué dans les grandes entreprises.
+
+11. Interprété
+
+Enfin, nous dirons qu'il s'agit d'un langage interprété. 
+Étant donné que les instructions sont exécutées une par une, le débogage est plus facile que dans les langues compilées.
+
+Différence entre interprété et compilé
+
+Un avantage clé de PHP est sa nature multi-plateforme ,
+ à la fois pour les programmeurs et les utilisateurs du Web .
+ Il peut être installé sur des serveurs Unix , y compris ceux en cours d'exécution du système 
+d'exploitation OS X d'Apple , et sera également fonctionner sur Microsoft Windows.
+
+Visibilité et contrôle limité framework PHP
+L'utilisation d'un framework logiciel déplace le développement de vos applications vers un niveau d'abstraction plus élevé. C'est par conception, et généralement une bonne chose. Cependant, il est bon de réaliser que cela aussi peut engendrer des problèmes.
+
+Alors que de nombreuses parties du modèle du framework doivent être personnalisées, le noyau du framework et ses bibliothèques ressemblent à une boîte noire que vous utilisez mais que vous ne contrôlez pas beaucoup. Vous pouvez suggérer des améliorations mais, au bout du compte, il appartient aux développeurs du framework de décider s’ils incluent ou non ce changement..
+
+De même, si vous commencez à utiliser un framework avant de comprendre parfaitement le langage PHP lui-même, vous risquez de confondre les fonctionnalités du framework avec les fonctionnalités du langage. Vous finirez par utiliser les fonctionnalités du framework, même si un simple PHP serait un meilleur choix..
