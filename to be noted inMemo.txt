@@ -15,6 +15,15 @@ https://espresso-jobs.com/conseils-carriere/quel-langage-de-programmation-choisi
 https://ibracilinks.com/blog/quand-et-pourquoi-java-est-utilise-pour-le-developpement-dapplications
 https://tutos-gameserver.fr/2020/01/11/avantages-et-inconvenients-de-python-comment-il-domine-le-monde-de-la-programmation-serveur-dimpression/
 https://fr.accentsconagua.com/articles/code/should-you-use-a-php-framework-five-pros-and-cons.html
+https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es
+Database Management System Concepts,FK Publications, (ISBN 9789380006338).
+https://altitudetvm.com/fr/komputer/1522-15-kelebihan-dan-kekurangan-mysql-server-yang-perlu-diketahui.html (avantage mysql)
+https://www.google.com/search?client=firefox-b-d&q=PostgreSQL+avantages+et+inconv%C3%A9nients&sa=X&ved=2ahUKEwiFypu8y8vyAhVNRkEAHTVOClwQ1QIwFnoECBMQAQ&biw=922&bih=531
+https://www.sqlite.org
+https://www.javatpoint.com/sqlite-advantages-and-disadvantages
+[21] https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql, consulté le ….
+[22] https://www.visual-paradigm.com, consulté le …
+https://fr.wikipedia.org/wiki/Dictionnaire_des_donn%C3%A9es
 
 3. Restrictions de conception
 
