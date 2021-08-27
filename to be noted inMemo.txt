@@ -24,6 +24,8 @@ https://www.javatpoint.com/sqlite-advantages-and-disadvantages
 [21] https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql, consulté le ….
 [22] https://www.visual-paradigm.com, consulté le …
 https://fr.wikipedia.org/wiki/Dictionnaire_des_donn%C3%A9es
+http://infocenter-archive.sybase.com/help/index.jsp?topic=/com.sybase.stf.poweramc.docs_12.1.0/html/mcgu/mcgup29.htm (règle de gestion)
+https://fr.wikipedia.org/wiki/Diagramme_de_cas_d%27utilisation#:~:text=Les%20diagrammes%20de%20cas%20d,d'utilisation%20sont%20plus%20appropri%C3%A9s.(use case)
 
 3. Restrictions de conception
 
