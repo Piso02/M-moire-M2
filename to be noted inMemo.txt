@@ -26,6 +26,8 @@ https://www.javatpoint.com/sqlite-advantages-and-disadvantages
 https://fr.wikipedia.org/wiki/Dictionnaire_des_donn%C3%A9es
 http://infocenter-archive.sybase.com/help/index.jsp?topic=/com.sybase.stf.poweramc.docs_12.1.0/html/mcgu/mcgup29.htm (règle de gestion)
 https://fr.wikipedia.org/wiki/Diagramme_de_cas_d%27utilisation#:~:text=Les%20diagrammes%20de%20cas%20d,d'utilisation%20sont%20plus%20appropri%C3%A9s.(use case)
+modèle du domaine: Fowler, Martin. Patterns of Enterprise Application Architecture. Addison Wesley, 2003, p. 116.
+
 
 3. Restrictions de conception
 
